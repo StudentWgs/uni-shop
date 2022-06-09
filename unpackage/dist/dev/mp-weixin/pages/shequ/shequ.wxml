@@ -1,0 +1,1 @@
+<view class="view"><scroll-view class="scrollView" scroll-y="true"><block wx:for="{{20}}" wx:for-item="i" wx:for-index="index" wx:key="index"><view data-event-opts="{{[['tap',[['getinfo',[index]]]]]}}" class="{{[active===index?'active':'']}}" bindtap="__e">社区1</view></block></scroll-view><view class="right">暂无数据</view></view>

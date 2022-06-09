@@ -1,0 +1,24 @@
+
+page {
+	height: 100%;
+}
+.view {
+	height: 100%;
+	display: flex;
+}
+.scrollView {
+	font-size: 40rpx;
+	line-height: 50px;
+	text-align: center;
+	border-bottom: 1px solid #d5d5d5;
+	border-right: 1px solid #d5d5d5;
+}
+.active {
+	color: white;
+	background: #f9181c;
+}
+.scrollView {
+	width: 200rpx;
+	height: 100%;
+}
+

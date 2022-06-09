@@ -1,0 +1,28 @@
+
+.price {
+	color: red;
+}
+.price, .richtext, .goodsnum, .content {
+	padding: 10rpx;
+	font-size: 40rpx;
+}
+.goodsnum {
+	display: flex;
+	flex-direction: column;
+	border-top:  10rpx solid #e5e5e5;
+	border-bottom:  10rpx solid #e5e5e5;
+}
+.goodsnum > text {
+	line-height: 60rpx;
+}
+.content {
+	display: flex;
+	flex-direction: column;
+	padding-bottom: 50px;
+}
+.shopping {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
+

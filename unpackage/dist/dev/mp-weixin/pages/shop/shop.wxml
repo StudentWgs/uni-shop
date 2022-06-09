@@ -1,0 +1,1 @@
+<view><goodlist vue-id="73adca00-1" goodsdata="{{list}}" bind:__l="__l"></goodlist><view class="list">goodslist</view><view class="over">没有更多了</view></view>

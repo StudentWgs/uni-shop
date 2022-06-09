@@ -1,0 +1,31 @@
+
+.goods {
+	display: flex;
+	flex-wrap: wrap;
+}
+.main {
+	background: #e2dfd2;
+	margin-top: 10rpx;
+	width: 100%;
+}
+.title {
+	color: firebrick;
+	font-size: 36rpx;
+	text-align: center;
+	margin: 10rpx;
+	background: white;
+}
+.goodslist {
+	width: 50%;
+	display: flex;
+	flex-direction: column;
+}
+.goodslist > image {
+	width: 100%;
+	height: 170px;
+}
+.price {
+	display: flex;
+	flex-direction: column;
+}
+

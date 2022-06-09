@@ -1,0 +1,1 @@
+<view><image src="../../static/logo.png"></image><view class="call"><text data-event-opts="{{[['tap',[['callphone',['$event']]]]]}}" bindtap="__e">联系电话：（拨打）010-123456</text><text>地址：黄埔abc区</text></view><map name="local" longitude="{{longitude}}" latitude="{{latitude}}" markers="{{biaoji}}"></map></view>

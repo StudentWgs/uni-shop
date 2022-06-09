@@ -1,0 +1,75 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* view {
+	height: 100vh;
+	background: #000;
+} */
+image {
+	width: 100%;
+	height: 200px;
+}
+.call {
+	display: flex;
+	flex-direction: column;
+}
+text {
+	border-bottom: 1px solid #cacaca;
+	margin: 20rpx;
+	padding: 10rpx;
+}
+map {
+	width: 100%;
+	height: 400px;
+}
+

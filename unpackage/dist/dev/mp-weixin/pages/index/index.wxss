@@ -1,0 +1,13 @@
+
+.nav.data-v-57280228 {
+	display: flex;
+}
+.nav_item.data-v-57280228{
+	width: 25%;
+	text-align: center;
+}
+.nav_item > image.data-v-57280228 {
+	width: 50%;
+	height: 90rpx;
+}
+
